@@ -14,9 +14,7 @@ Please ensure the following for the proper execution of the project.
 2. Open the project in Netbeans IDE.
 
 3. Ensure  that **mysql-connector-java-5.1.42-bin.jar** 
+     - in the directory C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext **or** 
+     - added  to the library folder of the project by selecting "Add JAR/Folder"  
 
-	a) in the directory C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext 
-		**or** 
-	b)added  to the library folder of the project by selecting "Add JAR/Folder"
-
-4. Change the  file dbconfig.properties as per your database name ,user name and password
+4. Change the  file `dbconfig.properties` as per your database name, user name and password
